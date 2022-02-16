@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working at UofT
-- 🌱 I’m currently learning CS
+- Welcome to my github!
+- 🔭 I’m currently a student at UofT
+- 🌱 I’m currently learning about different topics in Software Engineering
