@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - Welcome to my github!
 - 🔭 I’m currently a student at UofT
 - 🌱 I’m currently learning about different topics in Software Engineering
-- 💬 Ask me about Full Stack Development
-- 📫 How to reach me: Feel free to send me a email
+- 💬 Ask me about Coffee and Code
+- 📫 How to reach me: Feel free to send me a email anytime. I'm happy to chat over a coffee!
  
 I use:
 
