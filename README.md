@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student at UofT
 - 🌱 I’m currently learning about different topics in Software Engineering
 - 💬 Ask me about Full Stack Development
-- 📫 How to reach me: Feel free to send me a message on Github
-
+- 📫 How to reach me: Feel free to send me a email
+ 
+I use:
 
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
