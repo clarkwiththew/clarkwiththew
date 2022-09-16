@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student at UofT
 - 🌱 I’m currently learning about different topics in Software Engineering
 - 💬 Ask me about anything
-- 📫 How to reach me: Feel free to send me a email anytime clarkwang12@gmail.com -- I'm happy to chat!
+- 📫 How to reach me: Feel free to send me a message -- I'm happy to chat!
  
 I use:
 
