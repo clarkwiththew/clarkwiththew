@@ -33,6 +33,9 @@ I use:
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+)" />
 
 </p>
 
