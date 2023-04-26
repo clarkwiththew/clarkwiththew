@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 - Welcome to my github!
-- 🔭 I’m currently a student at UofT
+- 🔭 I’m currently a CS student at UofT
 - 🌱 I’m currently learning about different topics in Software Engineering
-- 💬 Ask me about anything
-- 📫 How to reach me: Feel free to send me a message -- I'm happy to chat!
+- 💬 Ask me about Software Engineering
+- 📫 How to reach me: email
  
 I use:
 
